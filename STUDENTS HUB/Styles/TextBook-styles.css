@@ -1,0 +1,41 @@
+body {
+    font-family: 'Lemon', serif;
+    margin: 0;
+    padding: 0;
+    background-color: #333;
+}
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 1rem;
+    font-family: 'Lemon', serif;
+    font-size: 170%;
+}
+nav {
+    background-color: #555;
+    overflow: hidden;
+}
+main {
+    padding: 5rem;
+    background-image: linear-gradient(black, gray, black);
+    color: #fff;
+}
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 1rem;
+    text-align: center;
+    margin-top: 1rem;
+}
+footer a{
+    background-color: #333;
+    color: #fff;
+    padding: 1rem;
+    font-family: 'Lemon', serif;
+}
+table, th, td {
+    table-layout: auto;
+    border: 2px solid black;
+    padding: 1%;
+    font-family: 'Lemon', serif;
+}
